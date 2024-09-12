@@ -1,0 +1,23 @@
+ul {list-style: none;
+    }
+    
+    li{
+        float: left;
+    }
+
+    li a{
+    display: block;
+    color: white;
+    padding: 6px 6px;
+    text-decoration: none;
+    }
+    li a:hover {
+        overflow: hidden; background-color: #969696;
+        position: sticky; top: 0;
+    }
+    
+.navcenter {
+        max-width: 550px;
+        margin: auto;
+        padding: 10px;
+    }
