@@ -7,9 +7,22 @@ body{
     text-align: center;
 }
 
+h1{
+    color: #7289da;
+}
+
+caption{
+    color: #7289da;  
+}
+
+.div-2{
+    color: #7289da;
+}
+
 hr{
     border-top: 2px solid;
     border-radius: 1px;
+    border-color: #1C2A34;
 }
 
 header{
@@ -24,3 +37,12 @@ header{
     margin: auto;
     padding: 10px;
 }
+
+table, th, td {
+    border: 1px solid #FFFFFF;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 5px;
+    text-align: left;
+  }
